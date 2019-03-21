@@ -1,0 +1,25 @@
+{
+    "name": "qnamaker",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "25"
+        },
+        {
+            "type": "qna",
+            "name": "qnamakerService",
+            "kbId": "377d33d9-7a65-4871-a994-ea77688ff4b6",
+            "subscriptionKey": "",
+            "endpointKey": "17517d44-8e65-42f7-b469-4e93bb69f787",
+            "hostname": "https://eistestbotqna1.azurewebsites.net/qnamaker",
+            "id": "227"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
