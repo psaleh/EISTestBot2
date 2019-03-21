@@ -15,11 +15,37 @@
             "name": "qnamakerService",
             "kbId": "377d33d9-7a65-4871-a994-ea77688ff4b6",
             "subscriptionKey": "",
-            "endpointKey": "swEHujiyRZzvNztOxfyLew==!l9VY6vxVjXA7RrcF7E8lRgeSMh8Yk9Owd1YWlgg8udhSg9y+HvOXGx+ZKZMPlz4E",
+            "endpointKey": "17517d44-8e65-42f7-b469-4e93bb69f787",
             "hostname": "https://eistestbotqna1.azurewebsites.net/qnamaker",
             "id": "227"
+        },
+        {
+            "tenantId": "23867c5f-f829-4b94-97e9-a22c51bd3165",
+            "subscriptionId": "168ad53f-7f5a-430b-9a7c-de3da1b2956f",
+            "resourceGroup": "EISTestBotRG",
+            "serviceName": "EISTestBot2",
+            "type": "abs",
+            "name": "EISTestBot2",
+            "id": "1"
+        },
+        {
+            "connectionString": "DefaultEndpointsProtocol=https;AccountName=eistestbot2a4ba;AccountKey=2U0bNQJmKXQUajOsK7927iqnOHKNchoznsAZTaCS6UDmOlSwuFmHtnhDUumSkD3BVv7tQJymLPqOap94eJzLCA==;EndpointSuffix=core.windows.net",
+            "tenantId": "23867c5f-f829-4b94-97e9-a22c51bd3165",
+            "subscriptionId": "168ad53f-7f5a-430b-9a7c-de3da1b2956f",
+            "resourceGroup": "EISTestBotRG",
+            "serviceName": "eistestbot2a4ba",
+            "type": "blob",
+            "id": "2"
+        },
+        {
+            "appId": "3deb6a07-8476-43f1-bee7-88217b0ad4c8",
+            "appPassword": "OE9IH6)|p1avQ;ZxLAUBuNUX[39",
+            "endpoint": "https://eistestbot2.azurewebsites.net/api/messages",
+            "type": "endpoint",
+            "name": "production",
+            "id": "4"
         }
     ],
-    "padlock": "fGApAaDxuzdgvtZ2aTnRrw==!aNgl21lYJAPJS5F6ewfyoKTTmzxTFqm9q2IgxHQ32FvQ0mMVXsIdUd4x29Ee9znO",
+    "padlock": "",
     "version": "2.0"
 }
